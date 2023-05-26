@@ -6,7 +6,7 @@ public class AttemptAtCreatingTest {
         assert true;
     }
 
-    @org.junit.Test
+    @Test
     public void FailedTest() {
         assert false;
     }
